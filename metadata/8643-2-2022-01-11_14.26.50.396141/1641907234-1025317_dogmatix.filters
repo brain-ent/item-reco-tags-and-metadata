@@ -1,0 +1,16 @@
+{
+  "ImageFilterPipeline": {
+    "filter_list": [
+      {
+        "name": "CutByCoordinatesFilter",
+        "kwargs": {
+          "x1": 0.26977520486366746,
+          "y1": 0.18356763621819017,
+          "x2": 0.8087099860047102,
+          "y2": 0.7225024173592329
+        }
+      }
+    ],
+    "apply_ext_default": true
+  }
+}
